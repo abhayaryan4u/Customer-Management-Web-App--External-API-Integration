@@ -10,7 +10,7 @@ Tech Stacks Used:
 * CSS
 * JavaScript
 
-At login page, when we enter the credentials provided by client, a request is sent to the API for login authentication and after receiving response, the page redirects to Customer List page. Here, all the customers with their details are listed alongwith action buttons in their respective rows by which we can edit or delete the customer details. There is also a "Add Customer" button by which we can get redirected to enter new customer details page for new details entry.
+At login page, when we enter the credentials provided by client (Login ID- test@sunbasedata.com || Password- Test@123), a request is sent to the API for login authentication and after receiving response, the page redirects to Customer List page. Here, all the customers with their details are listed alongwith action buttons in their respective rows by which we can edit or delete the customer details. There is also a "Add Customer" button by which we can get redirected to enter new customer details page for new details entry.
 
 So, basically I am using API calls during 'Login", "New Customer Registration", "Delete", "Editing/Updating" and all these operations are performed and get reflected in the customer list.
 
